@@ -14,141 +14,141 @@
 
 <gazebo reference="FrontIzq_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="FrontDer_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="BackIzq_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="BackDer_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="FemurFrontIzq_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="FemurBackIzq_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="FemurFrontDer_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="FemurBackDer_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="TibiaLowFrontIzq_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="TibiaLowBackIzq_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="TibiaLowFrontDer_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="TibiaLowBackDer_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="TibiaHighFrontIzq_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="PivotTibiaFrontIzq_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>2.0</mu1>
+  <mu2>2.0</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="PivotTibiaBackIzq_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>2.0</mu1>
+  <mu2>2.0</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="TIbiaHighBackIzq_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="PivotTibiaFrontDer_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>2.0</mu1>
+  <mu2>2.0</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="TibiaHighFrontDer_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="PivotTibiaBackDer_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>2.0</mu1>
+  <mu2>2.0</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
 <gazebo reference="TibiaHighBackDer_1">
   <material>${body_color}</material>
-  <mu1>0.2</mu1>
-  <mu2>0.2</mu2>
+  <mu1>0.8</mu1>
+  <mu2>0.8</mu2>
   <self_collide>true</self_collide>
 </gazebo>
 
@@ -158,34 +158,83 @@
       <plugin>gz_ros2_control/GazeboSimSystem</plugin>
     </hardware>
 
-    <xacro:macro name="configure_joint" params="joint_name">
-      <joint name="${joint_name}">
-        <command_interface name="position">
-          <param name="min">-3.14159</param>
-          <param name="max">3.14159</param>
-        </command_interface>
-        <state_interface name="position">
-          <param name="initial_value">0.0</param>
-        </state_interface>
-        <state_interface name="velocity" />
-        <state_interface name="effort" />
-      </joint>
-    </xacro:macro>
+    <!-- Hip joints: posicion inicial 0.0 -->
+    <joint name="HipFrontIzq">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
+    <joint name="HipFrontDer">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
+    <joint name="HipBackIzq">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
+    <joint name="HipBackDer">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
 
-    <xacro:configure_joint joint_name="HipFrontIzq" />
-    <xacro:configure_joint joint_name="HipFrontDer" />
-    <xacro:configure_joint joint_name="HipBackIzq" />
-    <xacro:configure_joint joint_name="HipBackDer" />
+    <!-- Femur joints: posicion inicial 0.5 rad (apuntando hacia abajo) -->
+    <joint name="FemurFrontIzq">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
+    <joint name="FemurFrontDer">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
+    <joint name="FemurBackIzq">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
+    <joint name="FemurBackDer">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
 
-    <xacro:configure_joint joint_name="FemurFrontIzq" />
-    <xacro:configure_joint joint_name="FemurBackIzq" />
-    <xacro:configure_joint joint_name="FemurFrontDer" />
-    <xacro:configure_joint joint_name="FemurBackDer" />
-
-    <xacro:configure_joint joint_name="FemurTibiaFrontIzq" />
-    <xacro:configure_joint joint_name="FemurTibiaBackIzq" />
-    <xacro:configure_joint joint_name="FemurTibiaFrontDer" />
-    <xacro:configure_joint joint_name="FemurTibiaBackDer" />
+    <!-- FemurTibia joints: posicion inicial -1.0 rad (rodilla doblada) -->
+    <joint name="FemurTibiaFrontIzq">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
+    <joint name="FemurTibiaFrontDer">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
+    <joint name="FemurTibiaBackIzq">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
+    <joint name="FemurTibiaBackDer">
+      <command_interface name="position"><param name="min">-3.14159</param><param name="max">3.14159</param></command_interface>
+      <state_interface name="position"><param name="initial_value">0.0</param></state_interface>
+      <state_interface name="velocity"/>
+      <state_interface name="effort"/>
+    </joint>
 
   </ros2_control>
 </robot>

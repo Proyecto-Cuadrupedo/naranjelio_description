@@ -583,68 +583,52 @@
     <limit lower="-3.14159" upper="3.14159" effort="10.0" velocity="5.0" />
   </joint>
 
-  <joint name="Revolute 45" type="revolute">
+  <joint name="Revolute 45" type="fixed">
     <origin xyz="0.0055 0.019255 0.005407" rpy="0 0 0" />
     <parent link="TibiaLowFrontIzq_1" />
     <child link="TibiaHighFrontIzq_1" />
-    <axis xyz="1.0 0.0 0.0" />
-    <limit lower="-3.14159" upper="3.14159" effort="10.0" velocity="5.0" />
   </joint>
 
-  <joint name="Revolute 46" type="revolute">
+  <joint name="Revolute 46" type="fixed">
     <origin xyz="0.0025 -0.079874 0.029071" rpy="0 0 0" />
     <parent link="TibiaHighFrontIzq_1" />
     <child link="PivotTibiaFrontIzq_1" />
-    <axis xyz="1.0 -0.0 -0.0" />
-    <limit lower="-3.14159" upper="3.14159" effort="10.0" velocity="5.0" />
   </joint>
 
-  <joint name="Revolute 47" type="revolute">
+  <joint name="Revolute 47" type="fixed">
     <origin xyz="0.0025 0.079874 0.029071" rpy="0 0 0" />
     <parent link="TIbiaHighBackIzq_1" />
     <child link="PivotTibiaBackIzq_1" />
-    <axis xyz="1.0 -0.0 0.0" />
-    <limit lower="-3.14159" upper="3.14159" effort="10.0" velocity="5.0" />
   </joint>
 
-  <joint name="Revolute 48" type="revolute">
+  <joint name="Revolute 48" type="fixed">
     <origin xyz="0.0055 -0.019238 0.00547" rpy="0 0 0" />
     <parent link="TibiaLowBackIzq_1" />
     <child link="TIbiaHighBackIzq_1" />
-    <axis xyz="1.0 0.0 0.0" />
-    <limit lower="-3.14159" upper="3.14159" effort="10.0" velocity="5.0" />
   </joint>
 
-  <joint name="Revolute 49" type="revolute">
+  <joint name="Revolute 49" type="fixed">
     <origin xyz="-0.0025 -0.079874 0.029071" rpy="0 0 0" />
     <parent link="TibiaHighFrontDer_1" />
     <child link="PivotTibiaFrontDer_1" />
-    <axis xyz="-1.0 0.0 0.0" />
-    <limit lower="-3.14159" upper="3.14159" effort="10.0" velocity="5.0" />
   </joint>
 
-  <joint name="Revolute 50" type="revolute">
+  <joint name="Revolute 50" type="fixed">
     <origin xyz="-0.0055 0.019238 0.00547" rpy="0 0 0" />
     <parent link="TibiaLowFrontDer_1" />
     <child link="TibiaHighFrontDer_1" />
-    <axis xyz="-1.0 0.0 0.0" />
-    <limit lower="-3.14159" upper="3.14159" effort="10.0" velocity="5.0" />
   </joint>
 
-  <joint name="Revolute 51" type="revolute">
+  <joint name="Revolute 51" type="fixed">
     <origin xyz="-0.0025 0.079874 0.029071" rpy="0 0 0" />
     <parent link="TibiaHighBackDer_1" />
     <child link="PivotTibiaBackDer_1" />
-    <axis xyz="-1.0 0.0 0.0" />
-    <limit lower="-3.14159" upper="3.14159" effort="10.0" velocity="5.0" />
   </joint>
 
-  <joint name="Revolute 52" type="revolute">
+  <joint name="Revolute 52" type="fixed">
     <origin xyz="-0.0055 -0.019255 0.005407" rpy="0 0 0" />
     <parent link="TibiaLowBackDer_1" />
     <child link="TibiaHighBackDer_1" />
-    <axis xyz="-1.0 0.0 0.0" />
-    <limit lower="-3.14159" upper="3.14159" effort="10.0" velocity="5.0" />
   </joint>
 
-</robot>
+</robot><!-- NOTA: línea agregada manualmente, borrar la de abajo antes de pegar -->

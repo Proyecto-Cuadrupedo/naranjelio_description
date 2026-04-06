@@ -26,6 +26,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'trot_gait = naranjelio_description.trot_gait:main',
         ],
     },
 )
